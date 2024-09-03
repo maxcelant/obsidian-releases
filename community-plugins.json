@@ -13151,6 +13151,13 @@
         "author": "Chasebank87",
         "description": "Allows you to import a GitHub README file into your vault.",
         "repo": "chasebank87/import-github-readme"
+    },
+    {
+        "id": "active-recall",
+        "name": "Active Recall",
+        "author": "maxcelant",
+        "description": "Helps you revisit stale notes by categorizing them in one place.",
+        "repo": "maxcelant/obsidian-recall"
     }
 ]
 
